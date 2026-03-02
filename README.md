@@ -1,84 +1,146 @@
 <div align="center">
+Youss
+AI-First SaaS Systems Architect
 
-# Hey, I'm Youss 👋
+Production-grade full-stack engineer building scalable, multilingual products
 
-**Digital Entrepreneur · Full-Stack Developer · AI Workflow Builder**
+Building SaaS that survives real users, real payments, and real compliance.
 
-*Building SaaS products, content systems, and AI-powered pipelines across 4 languages*
 
-[![Italy](https://img.shields.io/badge/📍-Italy-green?style=flat-square)](https://preventivo-pro.it)
-[![Languages](https://img.shields.io/badge/🌍-EN·IT·FR·AR-blue?style=flat-square)](#)
-[![Claude Max](https://img.shields.io/badge/AI-Claude%20Max-orange?style=flat-square)](#)
+
+
+
 
 </div>
+🧠 What I Specialize In
 
----
+Designing production-ready SaaS architectures
 
-## 🏢 What I'm Building
+Multi-tenant database design with Row-Level Security (RLS)
 
-| Brand | Type | Stack |
-|---|---|---|
-| [**Preventivo Pro**](https://preventivo-pro.it) | SaaS — Quotes & Invoices for Italian tradespeople | Full-stack SaaS · Italian fiscal compliance |
-| **Digitale Facile** | Tech education for Italian non-technical users | YouTube · Blog · WordPress |
-| **PrezzoGenius** | AI-powered Amazon affiliate deal aggregator | Automation · Telegram |
-| **Youss Creates** | Creator brand — AI productivity & systems | YouTube · Newsletter |
-| **El-Waratha313** | Multilingual spiritual wellness app | Arabic · French · Italian · English |
+Stripe billing systems with EU SCA / 3DS compliance
 
----
+Secure auth flows (MFA, session handling, RBAC)
 
-## 🛠️ Tech Stack
+AI workflow automation (multi-agent terminal pipelines)
 
-```
-Frontend    → Next.js 14 · TypeScript · Tailwind CSS · React
-Backend     → Supabase · PostgreSQL · RLS · Edge Functions
-Payments    → Stripe · Webhooks · SCA/3DS (EU)
-Auth        → Supabase Auth · MFA
-CMS/Web     → WordPress · Elementor · WooCommerce
-DevOps      → Vercel · Git · Claude Code · MCP Servers
-AI Tools    → Claude Code · ComfyUI · Remotion · AI content pipelines
-```
+Multilingual product architecture (independent localization, not translation)
 
----
+I build systems that scale cleanly — not demos that collapse under real users.
 
-## 🚀 Current Focus
+🏢 Production Projects
+Preventivo Pro
 
-- 🔧 **Preventivo Pro** — post-launch optimization, Italian fiscal compliance, Stripe integration
-- 🤖 **AI Workflow Systems** — terminal-based multi-agent pipelines with Claude Code
-- 🎬 **Video Production** — AI-assisted content for YouTube across IT/EN markets
-- 📱 **Animated Captions** — Remotion-based social media content automation
+SaaS for Italian tradespeople (quotes, invoicing, fiscal logic)
 
----
+What it demonstrates:
 
-## 📊 GitHub Activity
+Multi-tenant PostgreSQL with RLS enforcement
+
+Stripe subscriptions + webhooks (EU SCA compliant)
+
+Supabase Auth + secure session flows
+
+Italian fiscal edge cases handled at application layer
+
+Deployed production system with real users
+
+PrezzoGenius
+
+AI-powered Amazon deal aggregation system
+
+What it demonstrates:
+
+Automated scraping & filtering pipelines
+
+AI-assisted content enrichment
+
+Telegram distribution automation
+
+Scheduled background processing architecture
+
+El-Waratha313
+
+Multilingual spiritual wellness app (IT · EN · FR · AR)
+
+What it demonstrates:
+
+Independent localization strategy per language
+
+Multi-region content logic
+
+Cultural UX adaptation
+
+Structured content delivery system
+
+🏗️ Architecture Stack
+
+Frontend
+Next.js 14 · TypeScript · React Server Components · Tailwind
+
+Backend
+Supabase · PostgreSQL · Row-Level Security · Edge Functions
+
+Payments
+Stripe Subscriptions · Webhooks · EU SCA / 3DS flows
+
+Authentication
+Supabase Auth · MFA · Secure session architecture
+
+AI Systems
+Claude Code · Multi-agent terminal pipelines · Remotion · ComfyUI
+
+Infrastructure
+Vercel · Git · CI/CD · Environment isolation · Secure secret management
+
+⚙️ Engineering Principles
+
+Clarity over cleverness
+
+Delete old code when refactoring
+
+No silent failures
+
+Validate all external input
+
+Measure before optimizing
+
+Security is default, not optional
+
+Automate what repeats
+
+🌍 Operating Across 4 Markets
+
+Italian 🇮🇹 · English 🇬🇧 · French 🇫🇷 · Arabic 🇸🇦
+
+Each product is architected for localization from day one — schema, content flow, and UX decisions reflect regional behavior.
+
+🤝 Available For
+
+AI-first SaaS architecture consulting
+
+Stripe + EU billing system integration
+
+Multi-tenant RLS database design
+
+AI workflow system implementation
+
+Senior remote full-stack contracts
+
+Technical co-founder roles (AI-enabled SaaS)
+
+EU Remote · Open to US-based AI startups
+
+📬 Connect
+
+🌐 https://preventivo-pro.it
+
+💻 https://github.com/yousscreates
+
+🎬 YouTube (Digitale Facile / Youss Creates)
 
 <div align="center">
 
-![Youss's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousscreates&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yousscreates&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 🌍 Operating in 4 Languages
-
-Building products and content in **Italian 🇮🇹 · English 🇬🇧 · French 🇫🇷 · Arabic 🇸🇦**
-
-Each brand is independently localized — not just translated.
-
----
-
-## 📬 Connect
-
-[![Website](https://img.shields.io/badge/🌐-preventivo--pro.it-black?style=for-the-badge)](https://preventivo-pro.it)
-[![YouTube](https://img.shields.io/badge/YouTube-Digitale%20Facile-red?style=for-the-badge&logo=youtube)](https://youtube.com)
-[![GitHub](https://img.shields.io/badge/GitHub-yousscreatess-black?style=for-the-badge&logo=github)](https://github.com/yousscreates)
-
----
-
-<div align="center">
-
-*"Build systems, not just content."*
+Build systems, not just features.
 
 </div>
