@@ -1,146 +1,147 @@
 <div align="center">
-Youss
-AI-First SaaS Systems Architect
 
-Production-grade full-stack engineer building scalable, multilingual products
+# Youss
 
-Building SaaS that survives real users, real payments, and real compliance.
+### AI-First SaaS Systems Engineer  
+Production-grade full-stack architect for multi-tenant, Stripe-enabled SaaS
 
-
-
-
-
+Building systems that survive real users, real billing flows, and real compliance.
 
 </div>
-🧠 What I Specialize In
 
-Designing production-ready SaaS architectures
+---
 
-Multi-tenant database design with Row-Level Security (RLS)
+## 🧠 What I Specialize In
 
-Stripe billing systems with EU SCA / 3DS compliance
+- Designing production-ready SaaS architectures (Next.js + PostgreSQL)
+- Multi-tenant database design with strict Row-Level Security (RLS)
+- Stripe subscription systems (EU SCA / 3DS compliant)
+- Secure authentication flows (MFA, RBAC, server-side session validation)
+- Webhook reliability & idempotent billing logic
+- AI workflow automation (multi-agent terminal pipelines)
+- Multilingual product architecture (independent localization, not translation)
 
-Secure auth flows (MFA, session handling, RBAC)
+I build systems that scale cleanly — not demos that collapse under real traffic.
 
-AI workflow automation (multi-agent terminal pipelines)
+---
 
-Multilingual product architecture (independent localization, not translation)
+## 🏢 Production Projects
 
-I build systems that scale cleanly — not demos that collapse under real users.
-
-🏢 Production Projects
-Preventivo Pro
-
+### **Preventivo Pro**  
 SaaS for Italian tradespeople (quotes, invoicing, fiscal logic)
 
-What it demonstrates:
+**Architecture Highlights:**
 
-Multi-tenant PostgreSQL with RLS enforcement
+- Multi-tenant PostgreSQL with enforced RLS isolation
+- Stripe subscriptions + webhook processing (EU SCA compliant)
+- Idempotent webhook handling to prevent double execution
+- Subscription lifecycle management (trial → active → failed → canceled)
+- Supabase Auth with secure server-side session validation
+- Italian fiscal edge cases handled at application layer
+- Live production system serving real users
 
-Stripe subscriptions + webhooks (EU SCA compliant)
+---
 
-Supabase Auth + secure session flows
-
-Italian fiscal edge cases handled at application layer
-
-Deployed production system with real users
-
-PrezzoGenius
-
+### **PrezzoGenius**  
 AI-powered Amazon deal aggregation system
 
-What it demonstrates:
+**Architecture Highlights:**
 
-Automated scraping & filtering pipelines
+- Automated scraping & filtering pipelines
+- AI-assisted content enrichment workflows
+- Telegram distribution automation
+- Scheduled background processing architecture
+- Controlled job execution to avoid race conditions
 
-AI-assisted content enrichment
+---
 
-Telegram distribution automation
-
-Scheduled background processing architecture
-
-El-Waratha313
-
+### **El-Waratha313**  
 Multilingual spiritual wellness app (IT · EN · FR · AR)
 
-What it demonstrates:
+**Architecture Highlights:**
 
-Independent localization strategy per language
+- Independent localization strategy per language
+- Multi-region content logic
+- Structured content delivery system
+- Cultural UX adaptation at product level
 
-Multi-region content logic
+---
 
-Cultural UX adaptation
+## 🧩 Engineering Problems I've Solved
 
-Structured content delivery system
+- Designing RLS policies that prevent cross-tenant data leakage
+- Synchronizing Stripe subscription state with PostgreSQL safely
+- Preventing duplicate webhook execution using idempotency patterns
+- Handling subscription drift between Stripe and internal database
+- Securing server-side sessions in Next.js App Router
+- Building background workflows without race conditions
+- Enforcing tenant-level data isolation at the database layer
 
-🏗️ Architecture Stack
+---
 
-Frontend
+## 🏗️ Architecture Stack
+
+**Frontend**  
 Next.js 14 · TypeScript · React Server Components · Tailwind
 
-Backend
+**Backend**  
 Supabase · PostgreSQL · Row-Level Security · Edge Functions
 
-Payments
+**Payments**  
 Stripe Subscriptions · Webhooks · EU SCA / 3DS flows
 
-Authentication
-Supabase Auth · MFA · Secure session architecture
+**Authentication**  
+Supabase Auth · MFA · RBAC · Secure session architecture
 
-AI Systems
+**AI Systems**  
 Claude Code · Multi-agent terminal pipelines · Remotion · ComfyUI
 
-Infrastructure
+**Infrastructure**  
 Vercel · Git · CI/CD · Environment isolation · Secure secret management
 
-⚙️ Engineering Principles
+---
 
-Clarity over cleverness
+## ⚙️ Engineering Principles
 
-Delete old code when refactoring
+- Clarity over cleverness  
+- No silent failures  
+- Strict input validation  
+- Delete legacy code during refactors  
+- Measure before optimizing  
+- Security is default, not optional  
+- Automate what repeats  
 
-No silent failures
+---
 
-Validate all external input
+## 🌍 Operating Across 4 Markets
 
-Measure before optimizing
+Italian 🇮🇹 · English 🇬🇧 · French 🇫🇷 · Arabic 🇸🇦  
 
-Security is default, not optional
+Each product is architected for localization from day one — database schema, content structure, and UX decisions reflect regional behavior.
 
-Automate what repeats
+---
 
-🌍 Operating Across 4 Markets
+## 🤝 Available For
 
-Italian 🇮🇹 · English 🇬🇧 · French 🇫🇷 · Arabic 🇸🇦
+- SaaS stabilization & architecture audits
+- Stripe billing system implementation or repair
+- Multi-tenant RLS architecture design
+- AI workflow system implementation
+- Senior remote full-stack contracts
 
-Each product is architected for localization from day one — schema, content flow, and UX decisions reflect regional behavior.
+EU Remote · US-friendly timezone overlap
 
-🤝 Available For
+---
 
-AI-first SaaS architecture consulting
+## 📬 Connect
 
-Stripe + EU billing system integration
+🌐 https://preventivo-pro.it  
+💻 https://github.com/yousscreates  
 
-Multi-tenant RLS database design
-
-AI workflow system implementation
-
-Senior remote full-stack contracts
-
-Technical co-founder roles (AI-enabled SaaS)
-
-EU Remote · Open to US-based AI startups
-
-📬 Connect
-
-🌐 https://preventivo-pro.it
-
-💻 https://github.com/yousscreates
-
-🎬 YouTube (Digitale Facile / Youss Creates)
+</div>
 
 <div align="center">
 
-Build systems, not just features.
+**Build systems, not just features.**
 
 </div>
