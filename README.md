@@ -18,7 +18,7 @@
 
 | Brand | Type | Stack |
 |---|---|---|
-| [**Preventivo Pro**](https://preventivo-pro.it) | SaaS — Quotes & Invoices for Italian tradespeople | Next.js · TypeScript · Supabase · Stripe |
+| [**Preventivo Pro**](https://preventivo-pro.it) | SaaS — Quotes & Invoices for Italian tradespeople | Full-stack SaaS · Italian fiscal compliance |
 | **Digitale Facile** | Tech education for Italian non-technical users | YouTube · Blog · WordPress |
 | **PrezzoGenius** | AI-powered Amazon affiliate deal aggregator | Automation · Telegram |
 | **Youss Creates** | Creator brand — AI productivity & systems | YouTube · Newsletter |
